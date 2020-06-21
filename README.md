@@ -1,6 +1,6 @@
 # FinalBattle
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/Final_Battle`. To experiment with that code, run `bin/console` for an interactive prompt.
+Welcome to my Harry Potter gem! This gem was created to give an overview of characters in Harry Potter.
 
 TODO: Delete this and the text above, and describe your gem
 

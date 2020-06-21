@@ -16,6 +16,6 @@
     - house
     - ancestry
     - patronus
-    - image
+    
     
 
