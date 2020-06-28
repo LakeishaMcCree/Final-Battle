@@ -20,6 +20,7 @@ Or install it yourself as:
 
     $ gem install Final_Battle
 
+To run the program, type the following in the terminal: ./bin/Final-Battle
 ## Usage
 
 To begin, you will decide if you want to view all of the characters, only the students, or only the staff of the book series.  
