@@ -65,7 +65,7 @@ class CLI
     
 
     def invalid_input
-        puts "Confundo! You seem to be confused. You'll be transported back to the main menu."
+        puts "Confundo! You seem to be confused. You are being transported back to the main menu."
         sleep 2
         main_menu
     end
